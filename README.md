@@ -1,5 +1,7 @@
 # notIridium
 
+![screenshot] (https://www.cs.helsinki.fi/u/saska/notIridium.png)
+
 Small program to generate paths based on CSV data.
 
 The solution is not super optimal but with the small data set it is easily fast enough.
