@@ -1,6 +1,6 @@
 # notIridium
 
-![screenshot] (https://www.cs.helsinki.fi/u/saska/notIridium.png)
+![screenshot](https://www.cs.helsinki.fi/u/saska/notIridium.png)
 
 Small program to generate paths based on CSV data.
 
